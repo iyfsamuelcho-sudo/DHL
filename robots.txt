@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /knowledge/
+
+Sitemap: https://your-username.github.io/your-repository/sitemap.xml
