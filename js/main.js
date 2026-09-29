@@ -159,7 +159,7 @@
     { heading: "Life & resources", links: [["korea.html", "Life in Korea", "korea"], ["digital-ministry.html", "Digital Ministry", "digital"], ["media.html", "Media", "media"], ["events.html", "Events", "events"]] },
     { heading: "Connect", links: [["community.html", "Community", "community"], ["contact.html", "Contact & Prayer", "contact"]] }
   ];
-  const QUICK = [["korea.html", "Life in Korea", "korea"], ["gospel.html", "Gospel & Bible", "gospel"], ["discipleship.html", "Discipleship", "discipleship"], ["leadership.html", "Leadership", "leadership"], ["community.html", "Community", "community"]];
+  const QUICK = [["gospel.html", "Gospel & Bible", "gospel"], ["discipleship.html", "Discipleship", "discipleship"], ["leadership.html", "Leadership", "leadership"], ["korea.html", "Life in Korea", "korea"], ["community.html", "Community", "community"]];
 
   function renderHeader() {
     const h = $("#site-header"); if (!h) return;
