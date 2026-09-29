@@ -41,7 +41,7 @@ const CONFIG = {
 
   /* Show "Sample" badges on demo posts, events and groups.
      Set to false once all demo content is replaced. */
-  showDemoLabels: false,
+  showDemoLabels: true,
 
   youtube: { apiKey: YOUTUBE_API_KEY, channelId: YOUTUBE_CHANNEL_ID, maxResults: 12, cacheMinutes: 60 },
   facebookPageUrl: FACEBOOK_PAGE_URL,
