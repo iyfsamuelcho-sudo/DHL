@@ -15,7 +15,16 @@ const ministryPosts = [];
 
 /* Shown on the Media page when the YouTube API isn't configured or fails.
    category: "message" | "study" | "testimony" | "korea" | "leadership" */
-const fallbackVideos = [];
+const fallbackVideos = [
+  {
+    videoId: "YOUR_VIDEO_ID",
+    title: "Your video title",
+    description: "Your video description",
+    date: "2026-09-29",
+    category: "message",
+    thumbnail: "https://i.ytimg.com/vi/YOUR_VIDEO_ID/hqdefault.jpg"
+  }
+];
 
 /* Words used to sort YouTube videos into Media page categories. */
 const VIDEO_CATEGORY_KEYWORDS = {};
