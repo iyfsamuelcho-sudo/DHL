@@ -17,7 +17,7 @@ const ministryPosts = [];
    category: "message" | "study" | "testimony" | "korea" | "leadership" */
 const fallbackVideos = [
   {
-    videoId: "YOUR_VIDEO_ID",
+    videoId: "EzH-fQrELfk",
     title: "Your video title",
     description: "Your video description",
     date: "2026-09-29",
