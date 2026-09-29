@@ -15,7 +15,7 @@ const YOUTUBE_API_KEY = "AIzaSyCQle1XP2mPTFcTzDPxPejVKD7a4QWfyx8";
 const YOUTUBE_CHANNEL_ID = "UCy-688NReUqpEgWUziM2n8A";             // starts with "UC"
 
 /* Your public Facebook Page address. */
-const FACEBOOK_PAGE_URL = "https://www.facebook.com/profile.php?id=61553361180706";
+const FACEBOOK_PAGE_URL = "https://www.facebook.com/share/1CPwX6C7Hv/";
 
 /* AI Ministry Assistant.
    enabled:false  -> demo mode (answers come from DHL content on this site)
