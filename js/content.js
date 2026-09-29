@@ -15,7 +15,7 @@ const YOUTUBE_API_KEY = "AIzaSyCQle1XP2mPTFcTzDPxPejVKD7a4QWfyx8";
 const YOUTUBE_CHANNEL_ID = "UCy-688NReUqpEgWUziM2n8A";             // starts with "UC"
 
 /* Your public Facebook Page address. */
-const FACEBOOK_PAGE_URL = "https://www.facebook.com/your-dhl-page";
+const FACEBOOK_PAGE_URL = "https://www.facebook.com/profile.php?id=61553361180706";
 
 /* AI Ministry Assistant.
    enabled:false  -> demo mode (answers come from DHL content on this site)
@@ -41,7 +41,7 @@ const CONFIG = {
 
   /* Show "Sample" badges on demo posts, events and groups.
      Set to false once all demo content is replaced. */
-  showDemoLabels: true,
+  showDemoLabels: false,
 
   youtube: { apiKey: YOUTUBE_API_KEY, channelId: YOUTUBE_CHANNEL_ID, maxResults: 12, cacheMinutes: 60 },
   facebookPageUrl: FACEBOOK_PAGE_URL,
