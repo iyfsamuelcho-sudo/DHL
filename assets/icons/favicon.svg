@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DHL logo">
-  <rect width="64" height="64" rx="16" fill="#163a63"/>
-  <path d="M6 18h10q6 0 9 5l4 7" fill="none" stroke="#4c8dff" stroke-width="5" stroke-linecap="round"/>
-  <path d="M6 46h10q6 0 9-5l4-7" fill="none" stroke="#7fe0d4" stroke-width="5" stroke-linecap="round"/>
-  <path d="M38 32h6q5 0 8-5l5-9" fill="none" stroke="#f5a524" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="33" cy="32" r="8" fill="#fff" stroke="#f5a524" stroke-width="3"/>
-</svg>
