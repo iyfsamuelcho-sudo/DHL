@@ -11,32 +11,7 @@
    category: short label shown on the card (optional)
    sample:   true shows a "Sample" badge; delete it for real posts
    ========================================================================== */
-const ministryPosts = [
-  { sample: true, type: "youtube", title: "Welcome to DHL: from connection to commission", date: "2026-09-27",
-    description: "What DHL is, who we serve, and how you can take your next step.",
-    videoId: "", url: "", image: "assets/images/thumb-youtube.svg", category: "Message" },
-  { sample: true, type: "facebook", title: "Prayer for workers starting new jobs this week", date: "2026-09-26",
-    description: "Many of our friends start new contracts this month. Join us in praying for them.",
-    url: "", image: "assets/images/thumb-facebook.svg", category: "Prayer" },
-  { sample: true, type: "study", title: "New: Beginner Gospel course, six lessons", date: "2026-09-24",
-    description: "Short lessons you can do on your phone during a break.",
-    url: "gospel.html#course", image: "assets/images/thumb-study.svg", category: "Gospel" },
-  { sample: true, type: "event", title: "Filipino fellowship afternoon on October 4", date: "2026-09-22",
-    description: "Worship, a shared meal and new friends. Register to receive the location.",
-    url: "events.html", image: "assets/images/thumb-event.svg", category: "Fellowship" },
-  { sample: true, type: "testimony", title: "From a lonely first winter to leading a group", date: "2026-09-19",
-    description: "A sample testimony showing the DHL journey from connection to leadership.",
-    url: "", image: "assets/images/thumb-testimony.svg", category: "Testimony" },
-  { sample: true, type: "resource", title: "Download: online Bible study host checklist", date: "2026-09-16",
-    description: "Everything to prepare before, during and after your Zoom study.",
-    url: "assets/downloads/online-bible-study-checklist.txt", image: "assets/images/thumb-resource.svg", category: "Digital Ministry" },
-  { sample: true, type: "announcement", title: "Leadership Academy Level 3 opens in October", date: "2026-09-12",
-    description: "Ministry skills workshops for those who have completed Levels 1 and 2.",
-    url: "academy.html", image: "assets/images/thumb-announcement.svg", category: "Academy" },
-  { sample: true, type: "youtube", title: "Korean at the hospital: 10 useful phrases", date: "2026-09-08",
-    description: "Practical Korean for your next clinic visit.",
-    videoId: "", url: "", image: "assets/images/thumb-korea.svg", category: "Life in Korea" }
-];
+const ministryPosts = [];
 
 /* Shown on the Media page when the YouTube API isn't configured or fails.
    category: "message" | "study" | "testimony" | "korea" | "leadership" */
