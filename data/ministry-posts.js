@@ -17,13 +17,12 @@ const ministryPosts = [];
    category: "message" | "study" | "testimony" | "korea" | "leadership" */
 const fallbackVideos = [
   {
-    videoId: "EzH-fQrELfk",
-    title: "Your video title",
-    description: "Your video description",
-    date: "2026-09-29",
-    category: "message",
-    thumbnail: "https://i.ytimg.com/vi/YOUR_VIDEO_ID/hqdefault.jpg"
-  }
+  videoId: "EzH-fQrELfk",
+  title: "Your Video Title",
+  description: "Your video description",
+  date: "2026-09-29",
+  category: "message"
+}
 ];
 
 /* Words used to sort YouTube videos into Media page categories. */
