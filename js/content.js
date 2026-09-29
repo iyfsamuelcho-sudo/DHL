@@ -11,8 +11,8 @@
 /* YouTube Data API v3. Use a BROWSER key restricted to your website
    (see README section 6). Leave empty to use the manual list in
    data/ministry-posts.js. */
-const YOUTUBE_API_KEY = "";
-const YOUTUBE_CHANNEL_ID = "";          // starts with "UC"
+const YOUTUBE_API_KEY = "AIzaSyCQle1XP2mPTFcTzDPxPejVKD7a4QWfyx8";
+const YOUTUBE_CHANNEL_ID = "UCy-688NReUqpEgWUziM2n8A";             // starts with "UC"
 
 /* Your public Facebook Page address. */
 const FACEBOOK_PAGE_URL = "https://www.facebook.com/your-dhl-page";
